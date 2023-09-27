@@ -1,0 +1,30 @@
+[
+    {
+        "nis": "001",
+        "nisn": "1234567890",
+        "nama": "Siswa 1",
+        "tempatLahir": "Jakarta",
+        "tanggalLahir": "01-01-2000",
+        "ortuWali": "Orang Tua 1",
+        "password": "siswa1pass"
+    },
+    {
+        "nis": "002",
+        "nisn": "0987654321",
+        "nama": "Siswa 2",
+        "tempatLahir": "Surabaya",
+        "tanggalLahir": "02-02-2001",
+        "ortuWali": "Orang Tua 2",
+        "password": "siswa2pass"
+    },
+    {
+        "nis": "003",
+        "nisn": "1357924680",
+        "nama": "Siswa 3",
+        "tempatLahir": "Bandung",
+        "tanggalLahir": "03-03-2002",
+        "ortuWali": "Orang Tua 3",
+        "password": "siswa3pass"
+    }
+]
+  
