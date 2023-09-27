@@ -1,30 +1,33 @@
 [
-    {
-        "nis": "001",
-        "nisn": "1234567890",
-        "nama": "Siswa 1",
-        "tempatLahir": "Jakarta",
-        "tanggalLahir": "01-01-2000",
-        "ortuWali": "Orang Tua 1",
-        "password": "siswa1pass"
-    },
-    {
-        "nis": "002",
-        "nisn": "0987654321",
-        "nama": "Siswa 2",
-        "tempatLahir": "Surabaya",
-        "tanggalLahir": "02-02-2001",
-        "ortuWali": "Orang Tua 2",
-        "password": "siswa2pass"
-    },
-    {
-        "nis": "003",
-        "nisn": "1357924680",
-        "nama": "Siswa 3",
-        "tempatLahir": "Bandung",
-        "tanggalLahir": "03-03-2002",
-        "ortuWali": "Orang Tua 3",
-        "password": "siswa3pass"
-    }
+{ "nis": "21091005", "nisn": "52975800", "nama": "Ahmad Arafat Al-Mubarok", "tempatLahir": "Surakarta", "tanggalLahir": "22 November 2005", "ortuWali": "Drs. H. Widada", "password": "bismillah" },
+{ "nis": "21091006", "nisn": "61140844", "nama": "AL FARUQ DHIYA' RIDHO", "tempatLahir": "Surakarta", "tanggalLahir": "01 Maret 2006", "ortuWali": "Ir. NYUDI HERMANTO", "password": "bismillah" },
+{ "nis": "21091010", "nisn": "63781046", "nama": "Arkana Muhammad Zulfa", "tempatLahir": "Surakarta", "tanggalLahir": "18 Juli 2006", "ortuWali": "Ariawan Budianto, S.E", "password": "bismillah" },
+{ "nis": "21091017", "nisn": "69528934", "nama": "Azka As-Shidiqi Achmad", "tempatLahir": "Wonosobo", "tanggalLahir": "26 Maret 2006", "ortuWali": "Achmad Syukur", "password": "bismillah" },
+{ "nis": "21091020", "nisn": "55522376", "nama": "Bilal Imsyawan", "tempatLahir": "Karanganyar", "tanggalLahir": "11 November 2005", "ortuWali": "Agussyah Masbuqien Wahyu Imsawan", "password": "bismillah" },
+{ "nis": "21091040", "nisn": "66512236", "nama": "Fathan Yamieza Lihaq", "tempatLahir": "Boyolali", "tanggalLahir": "09 Februari 2006", "ortuWali": "Mulyono", "password": "bismillah" },
+{ "nis": "21091047", "nisn": "51773013", "nama": "Gibran Dzaki Mukarram", "tempatLahir": "Trenggalek", "tanggalLahir": "14 November 2005", "ortuWali": "Andi Mashari", "password": "bismillah" },
+{ "nis": "21091048", "nisn": "67346633", "nama": "Habib Zahran Nabil", "tempatLahir": "Surakarta", "tanggalLahir": "01 September 2006", "ortuWali": "Dwi Saputro Utomo", "password": "bismillah" },
+{ "nis": "21091049", "nisn": "59417455", "nama": "Hafidh Ridhwan Nafisa", "tempatLahir": "Boyolali", "tanggalLahir": "10 Oktober 2005", "ortuWali": "Sarwanto", "password": "bismillah" },
+{ "nis": "21091055", "nisn": "68049993", "nama": "Idrus Najid Rifai", "tempatLahir": "Sragen", "tanggalLahir": "03 November 2006", "ortuWali": "Kanifuddin", "password": "bismillah" },
+{ "nis": "21091057", "nisn": "66674590", "nama": "IZZUDDIN AL FAROUQI", "tempatLahir": "KLATEN", "tanggalLahir": "23 Mei 2006", "ortuWali": "ALI SUHUDI, S.Pd", "password": "bismillah" },
+{ "nis": "21091058", "nisn": "56141588", "nama": "Jody Firmansyah", "tempatLahir": "Pemalang", "tanggalLahir": "22 Desember 2005", "ortuWali": "Musdiyanto", "password": "bismillah" },
+{ "nis": "21091062", "nisn": "56613458", "nama": "M. Rashif Misbahul Akbar", "tempatLahir": "Semarang", "tanggalLahir": "20 September 2005", "ortuWali": "H. M. Anas Hamzah, S.Ag", "password": "bismillah" },
+{ "nis": "21091076", "nisn": "67552933", "nama": "Muhammad Alfan Ainul Fadhli", "tempatLahir": "Pemalang", "tanggalLahir": "02 Mei 2006", "ortuWali": "Ali Mustain", "password": "bismillah" },
+{ "nis": "21091077", "nisn": "56177476", "nama": "Muhammad Arkham Muzakky", "tempatLahir": "Surakarta", "tanggalLahir": "10 Agustus 2005", "ortuWali": "Agus Haryanto, S.T", "password": "bismillah" },
+{ "nis": "21091079", "nisn": "38233644", "nama": "Muhammad Bahrul Ulum", "tempatLahir": "Surakarta", "tanggalLahir": "30 Desember 2003", "ortuWali": "Drs. H. Widada", "password": "bismillah" },
+{ "nis": "21091082", "nisn": "56025391", "nama": "Muhammad Fais Said Ataulah", "tempatLahir": "Surakarta", "tanggalLahir": "25 Agustus 2005", "ortuWali": "Edi Mardiyanto, A.Md", "password": "bismillah" },
+{ "nis": "21091090", "nisn": "55274353", "nama": "Muhammad Hanif Al-Banna", "tempatLahir": "Purwokerto", "tanggalLahir": "27 Januari 2005", "ortuWali": "Arief Fauzi", "password": "bismillah" },
+{ "nis": "21091091", "nisn": "66554172", "nama": "Muhammad Hanif Ridho", "tempatLahir": "Surakarta", "tanggalLahir": "24 Juli 2006", "ortuWali": "M. Arief Budianto", "password": "bismillah" },
+{ "nis": "21091100", "nisn": "65299024", "nama": "Muhammad Yuhono Sudarsono", "tempatLahir": "Yogyakarta", "tanggalLahir": "10 Januari 2006", "ortuWali": "Muhammaah Rum Suseno", "password": "bismillah" },
+{ "nis": "21091104", "nisn": "59021237", "nama": "Nabil Azh-Zhahir", "tempatLahir": "Surakarta", "tanggalLahir": "23 September 2005", "ortuWali": "Mardiyono", "password": "bismillah" },
+{ "nis": "21091107", "nisn": "64555516", "nama": "Naufal Helmi Murtadha", "tempatLahir": "Klaten", "tanggalLahir": "28 Juli 2006", "ortuWali": "Edy Suwarno", "password": "bismillah" },
+{ "nis": "21091108", "nisn": "55504650", "nama": "NAUFAL NAWWARUDDIN ADI WIBOWO", "tempatLahir": "Yogyakarta", "tanggalLahir": "15 November 2005", "ortuWali": "HERU WIBOWO", "password": "bismillah" },
+{ "nis": "21091110", "nisn": "62320089", "nama": "Nicholas Mendova Munthe", "tempatLahir": "Surakarta", "tanggalLahir": "23 April 2006", "ortuWali": "Samsul Bahri Munthe", "password": "bismillah" },
+{ "nis": "21091124", "nisn": "63407353", "nama": "RIDZAL PRABOWO SAPUTRA", "tempatLahir": "Sukoharjo", "tanggalLahir": "08 Januari 2006", "ortuWali": "Prabowo", "password": "bismillah" },
+{ "nis": "21091131", "nisn": "66141348", "nama": "Syakty Bariq Al-Muharram", "tempatLahir": "Surakarta", "tanggalLahir": "15 Februari 2006", "ortuWali": "Joko Mulyono", "password": "bismillah" },
+{ "nis": "21091132", "nisn": "66782185", "nama": "Syauqi Hanif Arrantissi", "tempatLahir": "Surakarta", "tanggalLahir": "17 Maret 2006", "ortuWali": "Dr. Yusuf Alam Romadhon, M.Kes", "password": "bismillah" },
+{ "nis": "21091134", "nisn": "64691267", "nama": "Veto Tri Admaja", "tempatLahir": "Grobogan", "tanggalLahir": "19 April 2006", "ortuWali": "Triyono", "password": "bismillah" },
+{ "nis": "21091139", "nisn": "69902032", "nama": "ZOLTAN RAFIFFATIN SUSILO", "tempatLahir": "Surakarta", "tanggalLahir": "13 November 2006", "ortuWali": "JOKO SUSILO", "password": "bismillah" },
+{ "nis": "21091375", "nisn": "52489884", "nama": "Luthfi Adiyatma", "tempatLahir": "Surakarta", "tanggalLahir": "20 Mei 2005", "ortuWali": "Mulyono, S.Pd", "password": "bismillah" }
 ]
   
