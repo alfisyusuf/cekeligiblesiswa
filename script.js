@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const tgllahirSiswa = document.getElementById('tgllahirSiswa');
   const ortuwaliSiswa = document.getElementById('ortuwaliSiswa');
   const passwordInput = document.getElementById('password');
+  const statusEligible = document.getElementById('statusEligible');
 
   // Fungsi untuk mengambil data siswa dari file JSON
   function fetchData() {
@@ -44,6 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
             tempatlahirSiswa.textContent = siswa.tempatLahir;
             tgllahirSiswa.textContent = siswa.tanggalLahir;
             ortuwaliSiswa.textContent = siswa.ortuWali;
+            statusEligible.textContent = siswa.statusEligible;
 
             dataSiswa.classList.remove('d-none');
           }
